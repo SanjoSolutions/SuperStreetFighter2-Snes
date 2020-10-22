@@ -8,6 +8,14 @@
       "address": 2166,
       "type": "|u1"
     },
+    "sprite_id_next_frame_p1": {
+      "address": 1529,
+      "type": "<u4"
+    },
+    "sprite_id_next_frame_p2": {
+      "address": 2105,
+      "type": "<u4"
+    },
     "time_left": {
       "address": 6441,
       "type": "|d1"
