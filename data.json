@@ -1,16 +1,8 @@
 {
   "info": {
-    "x_p1": {
-      "address": 1559,
-      "type": "<u2"
-    },
     "hp_p1": {
       "address": 1590,
       "type": "|u1"
-    },
-    "x_p2": {
-      "address": 2135,
-      "type": "<u2"
     },
     "hp_p2": {
       "address": 2166,
@@ -19,6 +11,22 @@
     "time_left": {
       "address": 6441,
       "type": "|d1"
+    },
+    "x_p1": {
+      "address": 1559,
+      "type": "<u2"
+    },
+    "x_p2": {
+      "address": 2135,
+      "type": "<u2"
+    },
+    "y_p1": {
+      "address": 1562,
+      "type": "<u2"
+    },
+    "y_p2": {
+      "address": 2138,
+      "type": "<u2"
     }
   }
 }
