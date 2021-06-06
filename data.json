@@ -1,11 +1,31 @@
 {
   "info": {
+    "active_move_frames_left_p1": {
+      "address": 1342,
+      "type": "|u1"
+    },
+    "active_move_frames_left_p2": {
+      "address": 1918,
+      "type": "|u1"
+    },
     "active_p1": {
       "address": 1513,
       "type": "|u1"
     },
     "active_p2": {
       "address": 2089,
+      "type": "|u1"
+    },
+    "disabled_time_left_p1": {
+      "address": 1423,
+      "type": "|u1"
+    },
+    "disabled_time_left_p2": {
+      "address": 1999,
+      "type": "|u1"
+    },
+    "hit_p1": {
+      "address": 1428,
       "type": "|u1"
     },
     "hit_p2": {
@@ -18,10 +38,6 @@
     },
     "hp_p2": {
       "address": 2166,
-      "type": "|u1"
-    },
-    "hit_p1": {
-      "address": 1428,
       "type": "|u1"
     },
     "projectile_active_p1_1": {
