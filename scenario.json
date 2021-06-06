@@ -1,17 +1,5 @@
 {
   "done": {
-    "condition": "any",
-    "variables": {
-      "hp_p1": {
-        "op": "zero"
-      },
-      "hp_p2": {
-        "op": "zero"
-      },
-      "time_left": {
-        "op": "zero"
-      }
-    }
   },
   "rewards": [
     {
